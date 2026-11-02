@@ -23,26 +23,6 @@
 
 ---
 
-# 💫 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+AI-powered+applications;Engineering+full-stack+products;Exploring+cloud+security+and+DevOps;Researching+cloud+identity+attack+paths;Learning%2C+building%2C+and+shipping+every+day" alt="Animated engineering focus" />
-
-</div>
-
-I'm **Sneharsha Thammisetti**, a B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Vignan's Lara Institute of Technology and Science**, graduating in **2027** with a current CGPA of **8.4/10**. I have also completed a **Diploma in Artificial Intelligence and Machine Learning**.
-
-I'm interested in building useful software that connects **AI/ML, full-stack engineering, cloud technologies, automation, and security research**. I enjoy taking ideas from problem definition through implementation, testing, and iteration.
-
-- 🔭 **Currently working on:** CCPF / ARF-RT — temporal-context-aware cloud identity attack-path research.
-- 👯 **Looking to collaborate on:** AI/ML, cloud computing, full-stack development, and open-source projects.
-- 🤝 **Looking for help with:** Cloud security research, AWS architecture, and DevOps engineering.
-- 🌱 **Currently learning:** AWS, DevOps, Docker, Terraform, Kubernetes, and LLM engineering.
-- 💬 **Ask me about:** Python, JavaScript, React, Node.js, MERN stack, AI/ML, and cloud projects.
-- ⚡ **Fun fact:** I'm a science-fiction enthusiast who enjoys building technology projects and staying active through daily workouts.
-
----
 
 # 🌐 Socials
 
