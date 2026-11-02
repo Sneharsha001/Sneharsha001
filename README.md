@@ -113,3 +113,13 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Sneharsha001&style=flat-square&color=8B5CF6)](https://visitcount.itsvg.in)
 
 </div>
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Sneharsha001/Sneharsha001/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake Animation"
+  width="100%"
+/>
+
+</div>
