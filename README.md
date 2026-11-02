@@ -259,15 +259,6 @@ Completed SAP HANA and ABAP training through **Emax Technologies** and **Naxarit
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sneharsha001&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -299,11 +290,11 @@ Completed SAP HANA and ABAP training through **Emax Technologies** and **Naxarit
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repo
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Sneharsha001&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Sneharsha001&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
 
 </div>
 
