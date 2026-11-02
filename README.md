@@ -251,27 +251,6 @@ Completed SAP HANA and ABAP training through **Emax Technologies** and **Naxarit
 
 ---
 
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneharsha001&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sneharsha001/Sneharsha001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
