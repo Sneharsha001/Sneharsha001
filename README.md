@@ -49,14 +49,6 @@ I'm interested in building useful software that connects **AI/ML, full-stack eng
 - 💬 **Ask me about:** Python, JavaScript, React, Node.js, MERN stack, AI/ML, and cloud projects.
 - ⚡ **Fun fact:** I'm a science-fiction enthusiast who enjoys building technology projects and staying active through daily workouts.
 
-### Areas I'm Open To
-
-- Software Development / Software Engineering internships and entry-level roles
-- Full-Stack Development and Backend Development opportunities
-- AI/ML application development
-- Cloud Engineering and DevOps opportunities
-- Research collaboration and open-source contributions
-
 ---
 
 # 🎓 Education
