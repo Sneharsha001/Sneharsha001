@@ -30,49 +30,51 @@
 
 ---
 
-## About
+## About Me
 
-<div align="center">
+I'm **Sneharsha Thammisetti**, a final-year **B.Tech student in Artificial Intelligence and Machine Learning** at **Vignan's Lara Institute of Technology and Science**, graduating in **2027** with a current CGPA of **8.4/10**. I have also completed a **Diploma in Artificial Intelligence and Machine Learning**.
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║   Software Engineer  ·  AI/ML Engineer  ·  Full Stack Dev    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+I enjoy turning ideas into working software — from designing responsive interfaces and backend APIs to experimenting with machine-learning workflows and cloud technologies. My interests bring together **software engineering, applied AI/ML, full-stack development, cloud engineering, and security research**.
 
-</div>
+- **Build:** Full-stack applications, REST APIs, data-driven features, and practical workflow tools.
+- **Explore:** Machine learning, LLM-powered application integrations, automation, and cloud technologies.
+- **Research:** Cloud identity attack-path analysis, temporal context, and context-conditioned path feasibility.
+- **Improve:** I value clear architecture, reproducible testing, secure development practices, and learning by building.
 
-I am a **software engineer** focused on designing, building, and shipping reliable, scalable systems end to end. My work spans **AI/ML engineering**, **full stack development**, and **cloud-native architecture**, with a consistent emphasis on clean design, measurable performance, and long-term maintainability.
+### Areas I'm Open To
 
-- **Software Engineering** — Strong foundations in data structures, algorithms, system design, and distributed systems, applied to production-grade codebases.
-- **AI / ML** — Experience across machine learning, deep learning, NLP, and LLM-powered applications, from experimentation to deployment.
-- **Full Stack Development** — Building responsive frontends, robust APIs, and well-modeled data layers.
-- **Product Engineering Mindset** — I treat engineering as a means to user and business outcomes: I scope problems, validate assumptions, and ship iteratively.
-
-### Open To
-
-- Software Engineering roles (Backend, Full Stack, AI/ML)
-- Internships and full-time opportunities
-- Open source collaboration
-- Research and engineering partnerships
+- Software Development / Software Engineering internships and entry-level roles
+- Full-Stack Development and Backend Development opportunities
+- AI/ML application development opportunities
+- Cloud Engineering and DevOps learning opportunities
+- Research collaboration and open-source contributions
 
 ---
 
-## Tech Stack
+## Education
 
-### Languages
+| Qualification | Institution | Details |
+|:--|:--|:--|
+| **B.Tech — Artificial Intelligence & Machine Learning** | Vignan's Lara Institute of Technology and Science | Expected 2027 · **CGPA: 8.4/10** |
+| **Diploma — Artificial Intelligence & Machine Learning** | — | Completed |
+
+---
+
+## Technical Skills
+
+### Programming & Web Technologies
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python,java,cpp,js,ts,go,rust,bash&theme=dark)
+![Programming and Web](https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark)
 
 </div>
 
-### Frontend
+### Frontend Development
 
 <div align="center">
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark)
 
 </div>
 
@@ -80,181 +82,227 @@ I am a **software engineer** focused on designing, building, and shipping reliab
 
 <div align="center">
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,django,postgres,mysql,mongodb,redis,graphql&theme=dark)
+![Backend and Databases](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql&theme=dark)
 
 </div>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps & Engineering Tools
 
 <div align="center">
 
-![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,github,linux,nginx,terraform,vscode,postman&theme=dark)
+![Cloud and DevOps](https://skillicons.dev/icons?i=aws,docker,terraform,prometheus,grafana,linux,git,github,postman,vscode&theme=dark)
 
 </div>
+
+| Area | Technologies & Tools |
+|:--|:--|
+| **AI / Data** | Python, Pandas, NumPy, scikit-learn, machine-learning workflows |
+| **Generative AI & Automation** | Gemini API integration, prompt design, n8n workflows, Ollama, OpenCode |
+| **Backend & APIs** | Node.js, Express, Flask/FastAPI, REST APIs, JWT authentication |
+| **Databases & Storage** | MongoDB Atlas, MySQL, Cloudinary |
+| **Cloud & Infrastructure** | AWS fundamentals, Docker, Terraform, Prometheus, Grafana |
+| **SAP** | SAP HANA, SAP ABAP, ABAP Cloud development |
+
+*The tools above reflect a mix of hands-on project work, training, and technologies I am actively learning; they are not all presented as advanced-level expertise.*
 
 ---
 
-## AI / ML Expertise
+## AI / ML & Research Interests
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| **Machine Learning** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | Supervised and unsupervised learning, feature engineering, model evaluation, scikit-learn, XGBoost |
-| **Deep Learning** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras |
-| **Natural Language Processing** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | Text classification, embeddings, summarization, Hugging Face Transformers |
-| **LLM Applications** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | RAG pipelines, prompt engineering, agents, vector databases, LangChain |
-| **Computer Vision** | ![Intermediate](https://img.shields.io/badge/Intermediate-4F46E5?style=flat-square) | Object detection, image classification, OpenCV |
-| **MLOps** | ![Intermediate](https://img.shields.io/badge/Intermediate-4F46E5?style=flat-square) | Model serving, experiment tracking, CI/CD for ML, Docker, cloud deployment |
-| **Data Engineering** | ![Intermediate](https://img.shields.io/badge/Intermediate-4F46E5?style=flat-square) | ETL pipelines, pandas, NumPy, SQL, data validation |
-
-</div>
+| Domain | Current Focus | Practical Context |
+|:--|:--|:--|
+| **Machine Learning** | Data preparation, feature handling, model training, and evaluation | UPI Fraud Detection project; Python, Pandas, and scikit-learn |
+| **Generative AI Integration** | Connecting LLM capabilities to user-facing applications | Gemini AI integration in CineVerse AI; prompt-driven workflows |
+| **Sentiment & Emotion Analysis** | Exploring text, audio, and video analysis approaches | Experiments and study involving sentiment analysis and the RAF-DB emotion dataset |
+| **Cloud Security Research** | Identity permissions, attack-path reasoning, temporal context, and feasibility constraints | ARF-RT and the Context-Conditioned Path Feasibility (CCPF) research track |
+| **Cloud Cost Engineering** | Pricing normalization, service matching, and multi-cloud cost comparison | Infralytix — AWS, Azure, and Google Cloud pricing comparison |
 
 ---
 
 ## Featured Projects
 
 <details open>
-<summary><b>Project One — AI-Powered Platform</b></summary>
+<summary><b>ARF-RT — Cloud Identity Attack-Path Analysis & CCPF Research</b></summary>
 
 <br/>
 
-An end-to-end AI-driven application that combines a modern web interface with a production-grade inference backend, designed for low latency and horizontal scalability.
+A research-oriented **Bayesian reasoning engine for cloud identity attack-path analysis**. It works with privilege-graph inputs and reasons about uncertainty in the viability of identity paths. The active **Context-Conditioned Path Feasibility (CCPF)** research track investigates how operational context can be represented as formal constraints.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | Python, FastAPI, React, PostgreSQL, Redis, Docker, AWS |
-| **Scale** | Designed for 10K+ concurrent users with stateless services and caching |
-| **Performance** | Sub-200 ms median API latency; optimized queries and response caching |
-| **Security** | JWT authentication, role-based access control, input validation, rate limiting |
-| **Impact** | Reduced manual processing time significantly and improved decision accuracy |
-| **Repository** | [github.com/YOUR_USERNAME/project-one](https://github.com/YOUR_USERNAME/project-one) |
+| **Focus** | Cloud identity attack-path analysis, correlated belief structures, probe planning, and context-conditioned feasibility |
+| **Technologies** | Python, graph-based analysis, Bayesian reasoning, constraint-satisfaction modelling, automated tests |
+| **Research Context** | Evaluates context such as network origin CIDRs, MFA presence, and principal tags as feasibility constraints |
+| **Design Boundary** | Replay-oriented research scope; the documented engine does not make live cloud SDK calls |
+| **Current Work** | CCPF evaluator validation, semantic checks, independent review, and planning for later integration and evaluation |
+| **Repository** | [temporal-context-aware-cloud-identity-attack-paths](https://github.com/Sneharsha001/temporal-context-aware-cloud-identity-attack-paths) |
 
-**Overview** — Architected a modular service layer with clear separation between ingestion, model inference, and presentation. Automated testing and CI/CD pipelines ensure reliable, repeatable deployments.
+**Research direction** — The goal is to distinguish paths that are theoretically represented in an identity graph from paths that remain feasible under a specific operational context, while keeping feasibility reasoning separate from Bayesian probability scores.
+
+</details>
+
+<details open>
+<summary><b>SiteSphere — Construction Project & Daily Progress Management</b></summary>
+
+<br/>
+
+A full-stack platform for construction teams that helps site engineers submit **Daily Progress Reports (DPRs)** and gives project managers structured visibility into site activity.
+
+| Category | Details |
+|:--|:--|
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS |
+| **Backend** | Node.js, Express, TypeScript, REST APIs |
+| **Data & Security** | MongoDB Atlas, Mongoose, JWT authentication, role-based access |
+| **Media & Offline Support** | Multer, Cloudinary photo uploads, IndexedDB-backed draft persistence |
+| **Key Workflows** | DPR submissions with photos, project dashboards, project/user assignment, report history, and audit-oriented administration |
+| **Repository** | [Sneharsha001/SiteSphere](https://github.com/Sneharsha001/SiteSphere) · [Live Application](https://sitesphere-cbch.onrender.com) |
+
+**Engineering focus** — Structuring field-reporting workflows, handling photo uploads, separating user roles, and supporting report submission from devices used at construction sites.
 
 </details>
 
 <details>
-<summary><b>Project Two — Scalable Full Stack Application</b></summary>
+<summary><b>Infralytix — Multi-Cloud Pricing Comparison Engine</b></summary>
 
 <br/>
 
-A full stack product built with a microservices-oriented architecture, emphasizing maintainability, observability, and developer experience.
+A multi-cloud cost comparison project focused on evaluating infrastructure requirements across **AWS, Microsoft Azure, and Google Cloud**.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | TypeScript, Next.js, Node.js, MongoDB, GraphQL, Docker |
-| **Scale** | Multi-tenant architecture supporting thousands of active accounts |
-| **Performance** | Server-side rendering, edge caching, and indexed queries for fast page loads |
-| **Security** | OAuth 2.0, encrypted secrets management, OWASP-aligned practices |
-| **Impact** | Improved user engagement and reduced operational overhead through automation |
-| **Repository** | [github.com/YOUR_USERNAME/project-two](https://github.com/YOUR_USERNAME/project-two) |
+| **Focus** | Cloud pricing retrieval, normalization, service/instance matching, and cost comparison |
+| **Technologies** | Python, asynchronous processing, cloud pricing integrations |
+| **Core Components** | Pricing layer, common data model, infrastructure requirement processing, instance matching, and cost estimation |
+| **Benchmark Note** | In a reported run, concurrent processing completed in **83.21 seconds** versus **88.79 seconds** sequentially — approximately **6.3% faster** |
+| **Status** | Iterative development and feature integration |
 
-**Overview** — Designed a clean API contract, implemented real-time features, and established monitoring and logging to support production operations.
+**Engineering focus** — Creating a consistent comparison model for cloud providers whose service names, machine configurations, and pricing structures differ.
 
 </details>
 
 <details>
-<summary><b>Project Three — LLM and RAG System</b></summary>
+<summary><b>CineVerse AI — AI-Powered Movie Discovery</b></summary>
 
 <br/>
 
-A retrieval-augmented generation system that enables accurate, grounded question answering over large private document collections.
+A movie discovery and recommendation application that combines movie information from the **TMDB API** with **Google Gemini AI** to support more natural, AI-assisted exploration.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | Python, LangChain, Hugging Face, Vector DB, FastAPI, Docker |
-| **Scale** | Indexes 100K+ document chunks with incremental ingestion |
-| **Performance** | Optimized retrieval with hybrid search and re-ranking for high relevance |
-| **Security** | Document-level access control, PII redaction, audit logging |
-| **Impact** | Faster knowledge retrieval and measurably higher answer accuracy |
-| **Repository** | [github.com/YOUR_USERNAME/project-three](https://github.com/YOUR_USERNAME/project-three) |
+| **Focus** | Movie discovery, recommendations, and AI-assisted user interaction |
+| **Integrations** | Google Gemini AI API and TMDB API |
+| **Engineering Work** | Connecting external APIs and bringing AI-powered recommendations into a movie discovery experience |
 
-**Overview** — Built evaluation harnesses to benchmark retrieval quality and response faithfulness, enabling data-driven iteration on prompts and chunking strategies.
+</details>
+
+<details>
+<summary><b>SalesVision — E-Commerce Application</b></summary>
+
+<br/>
+
+A MERN-stack e-commerce project focused on building a complete web application experience across the frontend, backend, and database layers.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | MongoDB, Express, React, Node.js |
+| **Focus** | Full-stack application development and e-commerce workflows |
+
+</details>
+
+<details>
+<summary><b>NexusLink — Social Networking Platform</b></summary>
+
+<br/>
+
+A MERN-stack social networking project developed as a collaborative full-stack application.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | MongoDB, Express, React, Node.js |
+| **Focus** | Social application workflows, frontend/backend integration, and collaborative development |
+
+</details>
+
+<details>
+<summary><b>UPI Fraud Detection — Machine Learning Project</b></summary>
+
+<br/>
+
+A machine-learning project exploring the identification of potentially fraudulent UPI transactions using a data-driven classification workflow.
+
+| Category | Details |
+|:--|:--|
+| **Technologies** | Python, Pandas, scikit-learn |
+| **Focus** | Data preparation, fraud-detection modelling, and model evaluation |
+
+*No accuracy or performance figure is stated here because a verified evaluation result has not been provided.*
+
+</details>
+
+<details>
+<summary><b>HR Smart Attendance System — Ongoing Build</b></summary>
+
+<br/>
+
+An attendance-management application being developed with a separate frontend and backend, with integration work underway.
+
+| Category | Details |
+|:--|:--|
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS |
+| **Backend** | Python API development with FastAPI/Uvicorn |
+| **Database** | MongoDB Atlas |
+| **Current Focus** | Frontend/backend integration, API connectivity, and configuration management |
 
 </details>
 
 ---
 
-## Experience
+## Internship & Practical Experience
 
-### Software Engineer Intern, Company Name
+### AI & ML Intern — Edunet Foundation (AICTE)
 
-`Month YYYY – Month YYYY`
+Completed an Artificial Intelligence and Machine Learning internship through the **Edunet Foundation** in the **AICTE** program. The experience strengthened my exposure to applied AI/ML concepts and practical, project-oriented learning.
 
-Contributed to production systems in a fast-paced engineering team, owning features from design through deployment and collaborating closely with product and design stakeholders.
+### Software Engineering Job Simulation — Forage
 
-- Designed and shipped backend services and APIs used by thousands of users
-- Improved system performance and reliability through profiling, caching, and query optimization
-- Built and integrated ML-powered features into existing product workflows
-- Wrote unit and integration tests, and strengthened CI/CD pipelines
-- Participated in code reviews, design discussions, and on-call learning
+Worked through software engineering simulation tasks involving web-based solution development, frontend requirements, and hosting/deployment considerations in a simulated professional environment.
 
-`Python` `FastAPI` `React` `PostgreSQL` `Docker` `AWS` `CI/CD`
+**Repository:** [forage-deloitte-task](https://github.com/Sneharsha001/forage-deloitte-task)
 
-### AI/ML Engineer Intern, Company Name
+### SAP HANA & ABAP Cloud Training — DevCon Program
 
-`Month YYYY – Month YYYY`
-
-Worked on applied machine learning initiatives, taking models from prototype to production-ready services.
-
-- Developed and evaluated ML and NLP models on real-world datasets
-- Built data preprocessing and feature pipelines for repeatable training
-- Deployed model inference endpoints with monitoring and versioning
-- Documented experiments and communicated results to technical and non-technical audiences
-
-`PyTorch` `scikit-learn` `Hugging Face` `MLOps` `SQL` `Docker`
+Completed SAP HANA and ABAP-focused training with **Emax Technologies** and **Naxarita Solutions** through the DevCon program, leading to a global certification in SAP ABAP Cloud backend development.
 
 ---
 
-## Achievements
+## Certifications & Professional Learning
 
 <div align="center">
 
-| Recognition | Details |
-|:--|:--|
-| **Hackathon Winner** | First place at Event Name, building an AI-driven solution among 500+ participants |
-| **Competitive Programming** | Solved 500+ problems across LeetCode, CodeChef, and HackerRank |
-| **Academic Excellence** | Consistent top-percentile academic performance and merit recognition |
-| **Open Source** | Contributions merged into community projects and developer tooling |
-| **Technical Leadership** | Led a team of engineers on a flagship campus technology initiative |
+![SAP ABAP Cloud](https://img.shields.io/badge/SAP-ABAP%20Cloud%20Backend%20Developer-6D28D9?style=for-the-badge&logo=sap&logoColor=white)
 
 </div>
 
----
-
-## Certifications
-
-### AWS
-
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Oracle
-
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Java](https://img.shields.io/badge/Oracle-Java%20SE%20Certified-4F46E5?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-
-![NPTEL Data Structures](https://img.shields.io/badge/NPTEL-Data%20Structures%20and%20Algorithms-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![NPTEL Machine Learning](https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-### Cisco
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Networking%20Essentials-4F46E5?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-6D28D9?style=for-the-badge&logo=cisco&logoColor=white)
+- **SAP ABAP Cloud Backend Developer — Global Certification**
+- **AWS Skill Builder:** Cloud Practitioner learning and foundational cloud study *(training, not listed as a completed AWS certification)*
+- **Edunet Foundation / AICTE:** AI & ML internship program completion
 
 ---
 
-## Coding Profiles
+## Achievements & Coding Practice
+
+| Recognition | Details |
+|:--|:--|
+| **CodeChef Problem Solving** | 150+ problems solved |
+| **CodeChef Bronze Badge** | Earned the Bronze badge for reaching the 50-problem milestone |
+| **CodeChef Streak** | Earned the 5-Day Coding Streak badge |
+| **LeetCode Practice** | 30+ problems solved |
+| **Academic Performance** | Current B.Tech CGPA: **8.4/10** |
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__HANDLE-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_HANDLE)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR__HANDLE-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_HANDLE)
-[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR__HANDLE-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HANDLE)
-[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR__HANDLE-312E81?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_HANDLE)
+[![CodeChef](https://img.shields.io/badge/CodeChef-150%2B%20Problems-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-30%2B%20Problems-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 </div>
 
@@ -264,12 +312,12 @@ Worked on applied machine learning initiatives, taking models from prototype to 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sneharsha001&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" alt="Sneharsha's GitHub statistics" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sneharsha001&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="GitHub contribution streak" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneharsha001&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
 
 </div>
 
@@ -279,7 +327,7 @@ Worked on applied machine learning initiatives, taking models from prototype to 
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sneharsha001&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -289,7 +337,7 @@ Worked on applied machine learning initiatives, taking models from prototype to 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area_color=4F46E5&area=true&hide_border=true&radius=8" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneharsha001&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area_color=4F46E5&area=true&hide_border=true&radius=8" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
 
@@ -299,31 +347,38 @@ Worked on applied machine learning initiatives, taking models from prototype to 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Sneharsha001/Sneharsha001/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
+
+*To display the snake animation, configure a GitHub Actions workflow in the profile repository to generate the SVG and publish it to the `output` branch.*
 
 ---
 
 ## Current Focus
 
 ```yaml
-focus:
+profile:
   learning:
-    - Distributed Systems and System Design
-    - Advanced LLM Engineering and Agents
-    - Cloud-Native Architecture
+    - Cloud engineering fundamentals and AWS services
+    - Docker, Terraform, monitoring, and infrastructure practices
+    - Backend engineering, API design, and software architecture
+    - Applied machine learning and LLM-powered application development
   building:
-    - Scalable AI-powered full stack products
-    - Developer tooling and automation
+    - ARF-RT research and the CCPF feasibility evaluator
+    - SiteSphere construction project workflows
+    - Infralytix multi-cloud pricing comparison capabilities
+    - AI-assisted applications and workflow automations
   exploring:
-    - Retrieval-Augmented Generation at scale
-    - MLOps and model observability
-    - Open source contributions
+    - Temporal context in cloud identity attack paths
+    - Cloud security validation and evidence-driven testing
+    - n8n automation and local LLM tooling
   open_to:
-    - Software Engineering roles
-    - AI/ML Engineering roles
-    - Open source collaboration
+    - Software Engineering internships and entry-level roles
+    - Full-Stack and Backend Development opportunities
+    - AI/ML application development
+    - Cloud and DevOps learning opportunities
+    - Research and open-source collaboration
 ```
 
 ---
@@ -332,10 +387,7 @@ focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-YOUR__EMAIL%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR__NAME-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YOUR__DOMAIN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Sneharsha001-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneharsha001)
 
 </div>
 
@@ -343,8 +395,8 @@ focus:
 
 <div align="center">
 
-*"Great software is built with clarity, discipline, and a relentless focus on the user."*
+*"Build with curiosity. Validate with evidence. Improve with every iteration."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer" width="100%" alt="Profile footer banner" />
 
 </div>
