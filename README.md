@@ -6,16 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+AI%2FML+Engineer;Building+Scalable+Full+Stack+Systems;Turning+Research+into+Production+Products;Engineering+with+a+Product+Mindset" alt="Typing SVG" />
 </a>
 
-<br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Machine%20Learning-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/University-Vignan's%20Lara%20Institute%20of%20Technology%20%26%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.4%20%2F%2010-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#featured-projects)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#featured-projects) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneharsha-thammisetti-a3bb44285/)
 [![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sneharshathammisetty@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneharsha001)
