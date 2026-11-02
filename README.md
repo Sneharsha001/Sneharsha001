@@ -212,42 +212,39 @@ A MERN-stack e-commerce application focused on implementing core full-stack prod
 
 ---
 
-# 💼 Internship & Professional Development
+## 💼 Internships & Professional Development
 
-### Google Cloud Intern — SmartBridge
+### Google Cloud Generative AI Intern — SmartBridge
+`August 2026`
 
-Completed a **Google Cloud Internship through SmartBridge**, gaining practical exposure to Google Cloud technologies and cloud computing concepts.
+- Completed a **120-hour virtual internship** focused on Google Cloud Generative AI and cloud-based AI applications.
+- Gained practical exposure to generative AI workflows and applications in cloud environments.
+- Internship organized by SmartBridge in collaboration with the Andhra Pradesh State Council of Higher Education.
 
-### SAP ABAP Cloud Backend Developer
+### Frontend Development Intern — Cognifyz Technologies
+`November 2025 – December 2025`
 
-Completed SAP HANA and ABAP training through **Emax Technologies** and **Naxarita Solutions** as part of the DevCon program. Earned the **SAP ABAP Cloud Backend Developer Global Certification**.
+- Developed responsive web interfaces using **HTML, CSS, and JavaScript**, implementing interactive UI components.
+- Performed debugging, cross-browser compatibility testing, and frontend performance optimization.
+- Improved application responsiveness, functionality, and user experience.
+
+### Software Engineering Job Simulation — Commonwealth Bank (Forage)
+`March 2026`
+
+- Completed software engineering simulation tasks involving web-based solution development, frontend requirements, and hosting strategies.
+- Explored secure coding practices, cybersecurity considerations, and deployment planning in a simulated banking environment. 
 
 ---
-
 # 🏅 Achievements & Certifications
 
 | Category | Achievement |
 |:--|:--|
+| **AWS** | Learning through AWS Skill Builder and hands-on cloud practice. |
 | **CodeChef** | Solved **150+ problems** and earned the 5-Day Coding Streak and Bronze problem-solving badges. |
 | **LeetCode** | Solved **30+ problems**. |
-| **SAP** | SAP ABAP Cloud Backend Developer Global Certification. |
 | **Google Cloud** | Completed Google Cloud Internship through SmartBridge. |
-| **AWS** | Learning through AWS Skill Builder and hands-on cloud practice. |
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sneharsha001&show_icons=true&theme=shades-of-purple&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Sneharsha001&theme=shades-of-purple&hide_border=true" height="180" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneharsha001&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
-
-</div>
+| **SAP** | SAP ABAP Cloud Backend Developer Global Certification. |
+| **Nipuna Technologies** | — Web Development Trainee
 
 ---
 
