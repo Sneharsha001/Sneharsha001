@@ -32,6 +32,12 @@
 
 ## About Me
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+AI-powered+applications;Engineering+full-stack+products;Exploring+cloud+security+and+DevOps;Researching+cloud+identity+attack+paths;Learning%2C+building%2C+and+shipping+every+day" alt="Animated engineering focus" />
+
+</div>
+
 I'm **Sneharsha Thammisetti**, a final-year **B.Tech student in Artificial Intelligence and Machine Learning** at **Vignan's Lara Institute of Technology and Science**, graduating in **2027** with a current CGPA of **8.4/10**. I have also completed a **Diploma in Artificial Intelligence and Machine Learning**.
 
 I enjoy turning ideas into working software — from designing responsive interfaces and backend APIs to experimenting with machine-learning workflows and cloud technologies. My interests bring together **software engineering, applied AI/ML, full-stack development, cloud engineering, and security research**.
@@ -347,11 +353,15 @@ Completed SAP HANA and ABAP-focused training with **Emax Technologies** and **Na
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sneharsha001/Sneharsha001/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneharsha001/Sneharsha001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sneharsha001/Sneharsha001/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Sneharsha001/Sneharsha001/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
-*To display the snake animation, configure a GitHub Actions workflow in the profile repository to generate the SVG and publish it to the `output` branch.*
+*The contribution snake is generated automatically every day by the GitHub Actions workflow in `.github/workflows/snake.yml`. You can also run it manually from the Actions tab.*
 
 ---
 
