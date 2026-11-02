@@ -51,15 +51,6 @@ I'm interested in building useful software that connects **AI/ML, full-stack eng
 
 ---
 
-# 🎓 Education
-
-| Qualification | Institution | Details |
-|:--|:--|:--|
-| **B.Tech — Artificial Intelligence & Machine Learning** | Vignan's Lara Institute of Technology and Science | Expected 2027 · **CGPA: 8.4/10** |
-| **Diploma — Artificial Intelligence & Machine Learning** | — | Completed |
-
----
-
 # 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.sneharsha_33/)
